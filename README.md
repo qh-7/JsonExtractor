@@ -1,5 +1,5 @@
 # JsonExtractor
-JsonExtractor 是一个应用于Burp Suite 的可视化JSON数据提取工具。其核心功能是对复杂、多层嵌套的JSON响应数据进行可视化自定义的处理，支持导出为表格（如Excel）。通过内置的树形视图与右键菜单，可实现对提取规则的快速、精确定义，无需手动编写复杂的路径或脚本
+JsonExtractor 是一个应用于Burp Suite 的可视化JSON数据提取插件。其核心功能是对复杂、多层嵌套的JSON响应数据进行可视化自定义的处理，支持导出为表格（如Excel）。通过内置的树形视图与右键菜单，可实现对提取规则的快速、精确定义，无需手动编写复杂的路径或脚本
 
 导出文件名为result.xlsx
 <img width="1280" height="545" alt="image" src="https://github.com/user-attachments/assets/8e284280-986d-41b1-8754-9832c08859b1" />
