@@ -31,3 +31,8 @@ JsonExtractor 是一个应用于Burp Suite 的可视化JSON数据提取插件。
 
 缺点：对于N个规则，正则引擎需要对同一字符串进行N次独立的扫描和匹配。计算开销与规则数量成正比。性能较第一种较差。
 <img width="1213" height="720" alt="image" src="https://github.com/user-attachments/assets/73d7d6c9-360d-4375-8b15-6837a45ab97d" />
+
+
+关于JsonPath：
+https://www.jsonpath.cn/
+<img width="1448" height="961" alt="image" src="https://github.com/user-attachments/assets/174d7cb8-79d1-4e9e-bdbd-d4cce657817c" />
