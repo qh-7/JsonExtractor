@@ -8,6 +8,10 @@ JsonExtractor 是一个应用于Burp Suite 的可视化JSON数据提取插件。
 2使用说明
 将JSON数据复制到左侧点击分析
 <img width="1280" height="211" alt="image" src="https://github.com/user-attachments/assets/1dce2431-09c2-4c19-811e-4f751eea423d" />
+----------新版本V2.1可以右键数据包发送到插件这里自动分析----------
+<img width="739" height="720" alt="image" src="https://github.com/user-attachments/assets/f2fc094b-a77f-426a-a0ae-17e8f50824fb" />
+<img width="1280" height="644" alt="image" src="https://github.com/user-attachments/assets/c18c6437-5f62-4840-99d5-7890ae2bff91" />
+------------------------- v2.1 ---------------------------------
 
 在右侧的JSON结构视图中，先右键配置数组节点为设为记录根路径
 <img width="1280" height="483" alt="image" src="https://github.com/user-attachments/assets/e142fe69-471f-4a4c-a207-3a79c5e01d6b" />
